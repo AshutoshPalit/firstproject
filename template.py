@@ -22,10 +22,10 @@ list_of_files = [
     "requirements.txt",
     "requirement_dev.txt",
     "setup.py",
-    "setip.cfg",
+    "setup.cfg",
     "pyproject.toml",
     "tox.ini",
-    "experiment/experiments.ipynb"
+    "experiments/experiments.ipynb"
 ]
 
 for filepath in list_of_files:
